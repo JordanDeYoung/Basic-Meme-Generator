@@ -1,0 +1,40 @@
+body {
+    background-color: lavenderblush;
+}
+input {
+    display: block;
+}
+
+#img {
+    height: 300px;
+    width: 400px;
+}
+
+.text{
+    height: 50px;
+    width: 300px;
+    color: white;
+    background-color: black;
+    margin: 0px;
+}
+
+.bottom {
+    position: relative;
+    bottom: 8px;
+    left: 0px;
+    font-family: 'Recursive', sans-serif;
+    color: white;
+    background-color: black;
+    width: 380px;
+    height: auto;
+    font-size: 30px;
+    border: black solid 10px;
+  }
+
+  .box {
+      width: 50%;
+      height: 40px;
+      font-size: 1.5em;
+  }
+
+  
